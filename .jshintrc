@@ -8,7 +8,6 @@
 	"nonew": true,
 	"undef": true,
 	"unused": true,
-	"strict": false,
 
 	// Environment
 	"node": true
