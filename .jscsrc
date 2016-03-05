@@ -1,5 +1,7 @@
 {
 	"preset": "node-style-guide",
 
-	"requireCamelCaseOrUpperCaseIdentifiers": "ignoreProperties"
+	"requireCamelCaseOrUpperCaseIdentifiers": {
+		"ignoreProperties": true
+	}
 }
